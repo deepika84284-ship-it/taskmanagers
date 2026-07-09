@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A beautiful and fully functional full-stack Task Manager with secure user authentication, dashboard statistics, priority and status tracking, filtering, sorting, and task search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
